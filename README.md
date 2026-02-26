@@ -37,6 +37,8 @@ It uses a **UNet (ResNet34)** deep learning model to convert terrain images into
 -   **Vehicle Suitability Analysis**
 -   **Drone Surveillance Index**
 -   **Emergency Deployment Simulation**
+-   **Tactical Deployment Intelligence (Delhi Police Mode)**
+-   
 
 ---
 
