@@ -43,12 +43,30 @@ It uses a **UNet (ResNet34)** deep learning model to convert terrain images into
 
 ##  Tech Stack
 
-- **Frontend:** Streamlit  
-- **Deep Learning:** PyTorch  
-- **Segmentation:** segmentation-models-pytorch  
-- **Image Processing:** OpenCV  
-- **Visualization:** Matplotlib  
+###  Programming & Frameworks
+- **Python**
+- **Streamlit** (Interactive Web Dashboard)
+- **Jupyter Notebook** (Model Development & Experimentation)
 
+###  Deep Learning & Computer Vision
+- **PyTorch**
+- **Torchvision**
+- **U-Net (Encoder–Decoder Architecture)**
+- **ResNet34 Encoder**
+- **segmentation-models-pytorch**
+
+### Data Processing & Visualization
+- **NumPy**
+- **OpenCV**
+- **Matplotlib**
+
+###  Evaluation & Metrics
+- **Intersection over Union (IoU)**
+- Pixel-wise Semantic Segmentation Accuracy
+
+###  Dataset
+- **Synthetic Digital Twin Dataset**
+- Generated using **Duality AI Falcon**
 ---
 
 ##  Installation & Setup
@@ -81,11 +99,10 @@ streamlit run app.py
 
 ---
 
-##  Author
+##  Team Members
 
-**Sakshi Mittal** 
-**Saumya Dwivedi**
-AI & Systems Developer  
+- **Sakshi Mittal** – AI & Systems Developer  
+- **Saumya Dwivedi** – AI & Systems Developer 
 
 ---
 
