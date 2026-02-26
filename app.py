@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 # ================= PAGE CONFIG =================
 st.set_page_config(
-    page_title="TerrainIQ - Tactical Terrain Intelligence",
+    page_title="TerrainIQ - Smart Offroad Vision ",
     layout="wide",
     page_icon="🚓"
 )
@@ -46,7 +46,7 @@ set_background()
 # ================= LANDING SCREEN =================
 if not st.session_state.entered:
     st.markdown(
-        "<h1 style='text-align:center;'>🚓 TerrainIQ - Tactical Deployment Intelligence</h1>",
+        "<h1 style='text-align:center;'>🚓 TerrainIQ - Smart Offroad Vision </h1>",
         unsafe_allow_html=True
     )
     st.markdown("---")
