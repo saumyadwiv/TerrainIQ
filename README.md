@@ -35,7 +35,6 @@ It uses a **UNet (ResNet34)** deep learning model to convert terrain images into
 -   **Pixel-Level Terrain Segmentation (10 Classes)**
 -   **Intelligent Risk Scoring Engine**
 -   **Vehicle Suitability Analysis**
--   **Weather-Based Risk Adjustment**
 -   **Drone Surveillance Index**
 -   **Emergency Deployment Simulation**
 
