@@ -19,6 +19,13 @@ It uses a **UNet (ResNet34)** deep learning model to convert terrain images into
 
 ##  Application Preview
 
+![Landing Preview](assets/landing.png)
+![Dashboard](assets/dashboard.png)
+![Segmentation](assets/segmentation.png)
+![Dashboard](assets/dashboard.png)
+![Dashboard Preview](assets/landing.png)
+![Segmentation](assets/segmentation.png)
+![Dashboard](assets/dashboard.png)
 ![Dashboard Preview](assets/landing.png)
 ![Segmentation](assets/segmentation.png)
 ![Dashboard](assets/dashboard.png)
