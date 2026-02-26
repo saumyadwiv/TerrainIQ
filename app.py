@@ -52,7 +52,7 @@ if not st.session_state.entered:
     st.markdown("---")
     st.markdown(
         "<h3 style='text-align:center;'>"
-        "“Smart terrain awareness for faster, safer police response.”"
+        "“Turning Unseen Terrain into Intelligent Decisions .”"
         "</h3>",
         unsafe_allow_html=True
     )
@@ -79,7 +79,7 @@ def load_ai_model():
 model = load_ai_model()
 
 # ================= HEADER =================
-st.markdown("<h1 style='text-align:center;'>🚓 AI Terrain Tactical Intelligence System</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align:center;'> TerrainIQ- Smart Offroad Vision </h1>", unsafe_allow_html=True)
 st.markdown("---")
 
 # ================= SIDEBAR =================
