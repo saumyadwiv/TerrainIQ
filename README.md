@@ -98,6 +98,14 @@ streamlit run app.py
 - Multi-sensor fusion  
 
 ---
+---
+
+## 🚀 Live Demo
+
+ **Deployed Application:**  
+  https://terrainiq-e4jrqkq6cjbx2qq7au4xkw.streamlit.app/
+
+---
 
 ##  Team Members
 
