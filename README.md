@@ -135,7 +135,7 @@ streamlit run app.py
 ---
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demo (hosted on streamlit)
 
  **Deployed Application:**  
   https://terrainiq-e4jrqkq6cjbx2qq7au4xkw.streamlit.app/
