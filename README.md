@@ -84,7 +84,7 @@ When evaluated on unseen terrain environments, performance decreases due to doma
 
 ### 📈 Performance Analysis
 
-- The gap between validation and cross-environment IoU highlights:
+- The gap between validation and cross-environment IoU highlights the following:
   - Terrain appearance variability  
   - Lighting and environmental shifts  
   - Class imbalance in rare terrain categories  
